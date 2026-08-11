@@ -552,47 +552,11 @@ https://cdnjktcyber05.transvision.co.id/riutx01-34f2ce60d6cf6accf1f9645eb77df9d0
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vhPnlbfhS0uPMJoNlwQZZw","k":"zUInJah2Sm2d/nqVC1qHMw"}],"type":"temporary"}
 https://cdnjktcyber05.transvision.co.id/riutx01-34f2ce60d6cf6accf1f9645eb77df9d0/dash/SEJPIEhpdHM/manifest.mpd
 
-#EXTINF:-1 tvg-id="112" tvg-name="TVN Movies" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/57727537-28c7-4023-b921-2c1cf0521a9f.png" group-title="| INDONESIA",TVN Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vhPnlbfhS0uPMJoNlwQZZw","k":"zUInJah2Sm2d/nqVC1qHMw"}],"type":"temporary"}
-https://cdnjktcyber05.transvision.co.id/riutx01-34f2ce60d6cf6accf1f9645eb77df9d0/dash/VFZOTW92aWVz/manifest.mpd
-
-#EXTINF:-1 tvg-id="309" tvg-name="tvN MOVIES" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/2e8b55e0-c16a-4af8-902d-b688f51e6d48.png" group-title="| INDONESIA",tvN MOVIES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vhPnlbfhS0uPMJoNlwQZZw","k":"zUInJah2Sm2d/nqVC1qHMw"}],"type":"temporary"}
-https://cdnjktcyber05.transvision.co.id/riutx01-34f2ce60d6cf6accf1f9645eb77df9d0/dash/dHZOTU9WSUVT/manifest.mpd
-
-#EXTINF:-1 tvg-id="308" tvg-name="Cinema World" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/65ec7dec-0e55-4484-8292-f8bf15b2cd63.png" group-title="| INDONESIA",Cinema World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vhPnlbfhS0uPMJoNlwQZZw","k":"zUInJah2Sm2d/nqVC1qHMw"}],"type":"temporary"}
-https://cdnjktcyber05.transvision.co.id/riutx01-34f2ce60d6cf6accf1f9645eb77df9d0/dash/Q2luZW1hV29ybGQ/manifest.mpd
-
-#EXTINF:-1 tvg-id="290" tvg-name="Bioskop Indonesia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/ffdc8a15-38cf-4beb-95f8-84d88a6caf4d.png" group-title="| INDONESIA",Bioskop Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vhPnlbfhS0uPMJoNlwQZZw","k":"zUInJah2Sm2d/nqVC1qHMw"}],"type":"temporary"}
-https://cdnjktcyber05.transvision.co.id/riutx01-34f2ce60d6cf6accf1f9645eb77df9d0/dash/Qmlvc2tvcEluZG9uZXNpYQ/manifest.mpd
-
-#EXTINF:-1 tvg-id="339" tvg-name="Zee Bioskop" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/7c0b46a0-f62c-4fbe-8a11-b2efb36dda3d.png" group-title="| INDONESIA",Zee Bioskop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vhPnlbfhS0uPMJoNlwQZZw","k":"zUInJah2Sm2d/nqVC1qHMw"}],"type":"temporary"}
-https://cdnjktcyber05.transvision.co.id/riutx01-34f2ce60d6cf6accf1f9645eb77df9d0/dash/WmVlQmlvc2tvcA/manifest.mpd
-
 #EXTINF:-1 tvg-id="548" tvg-name="Thrill" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/a6dbf2ac-af01-4e63-92e9-320b81c89edc.png" group-title="| INDONESIA",Thrill
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vhPnlbfhS0uPMJoNlwQZZw","k":"zUInJah2Sm2d/nqVC1qHMw"}],"type":"temporary"}
-https://cdnjktcyber05.transvision.co.id/riutx01-34f2ce60d6cf6accf1f9645eb77df9d0/dash/VGhyaWxs/manifest.mpd
-
-#EXTINF:-1 tvg-id="282" tvg-name="Test Channel CK " tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/20b80f4f-edb9-4171-ab3d-fda1b16a3568.jpg" group-title="| INDONESIA",Test Channel CK 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vhPnlbfhS0uPMJoNlwQZZw","k":"zUInJah2Sm2d/nqVC1qHMw"}],"type":"temporary"}
-https://cdnjktcyber05.transvision.co.id/riutx01-34f2ce60d6cf6accf1f9645eb77df9d0/dash/VGVzdENoYW5uZWxDSw/manifest.mpd
+https://cdnjktcyber05.transvision.co.id/riverside26/riutx01-for-lcs/dash/VGhyaWxs/manifest.mpd
 
 #EXTINF:-1 tvg-id="549" tvg-name="Cartoonito" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5e1176e9-6ddc-46fc-9258-5e9fdb85797a.png" group-title="| INDONESIA",Cartoonito
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
