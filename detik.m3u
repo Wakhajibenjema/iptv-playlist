@@ -3,25 +3,25 @@
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0","Origin":"https://20.detik.com","Referer":"https://20.detik.com/live/trans-7","Cookie":"cshx=3bcdb206"}
-https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1787331251692&wowzatokenhash=DooYBFM18pwGUpj2tJl4zez0eLp1uW6OQGCvTqE6REk%3D
+https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1787334479759&wowzatokenhash=RUDvD8e7lKCOzbsjEJ9zMCO_ivMZFXy5xmmFxWgyM8w%3D
 
 #EXTINF:-1 tvg-id="transtv" tvg-name="TRANS TV" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-ttv.png" group-title="| Indonesia OTT",TRANS TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0","Origin":"https://20.detik.com","Referer":"https://20.detik.com/live/trans-tv","Cookie":"cshx=3bcdb206"}
-https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1787331251736&wowzatokenhash=fPNvERcoUqcogMD8AChHcEj0mCn1sNdf0kA_1OsO1Bc%3D
+https://video.detik.com/transtv-sec/smil:transtv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1787334479812&wowzatokenhash=uSKT9aqMmDRapboTsxzuufZrdoRMOzQXdj0YFAIFa0I%3D
 
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN Indonesia" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-cnn.png" group-title="| Indonesia OTT",CNN Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0","Origin":"https://www.cnnindonesia.com","Referer":"https://www.cnnindonesia.com/","Cookie":"cshx=a7f2d91b"}
-https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1787331251776&wowzatokenhash=A6YnjtmKzBkshICcO4hiHb9RPR-rH5sYlUV5eLhyVAc%3D
+https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1787334479861&wowzatokenhash=XE1tUQyfEljFc_QFcNI-Y4pbnxP0p_99bXF9b1tnrug%3D
 
 #EXTINF:-1 tvg-id="cnbc" tvg-name="CNBC Indonesia" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-cnbc.png" group-title="| Indonesia OTT",CNBC Indonesia
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0","Origin":"https://www.cnbcindonesia.com","Referer":"https://www.cnbcindonesia.com/","Cookie":"cshx=5e8c12a4"}
-https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1787331251834&wowzatokenhash=TKzmwqf7Ih0_kQUWbByonkcwWZmS4U7-NiVZuOP4ct0%3D
+https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1787334479910&wowzatokenhash=l6cOylL9gYekY8tY0PPJNUEVl-2ZDW3KJx0dd3nV7FE%3D
 
 #EXTINF:-1 tvg-id="20detik" tvg-name="20Detik" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/01-20detik.png" group-title="| Indonesia OTT",20Detik
 #KODIPROP:inputstream=inputstream.adaptive
