@@ -580,19 +580,13 @@ https://cdnjktbpid37.cubmu.com/riverside26/riutx01-for-lcs/dash/Q2FydG9vbml0bw/m
 #EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vhPnlbfhS0uPMJoNlwQZZw","k":"zUInJah2Sm2d/nqVC1qHMw"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/Q2FydG9vblRWUHJlbWl1bQ/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/VFZPTkU/manifest.mpd
 
 #EXTINF:-1 tvg-id="582" tvg-name="Cartoon TV" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6bc7e79e-bcfd-42d0-8fab-78559400be6c.jpg" group-title="| Indonesia OTT",Cartoon TV
 #EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vhPnlbfhS0uPMJoNlwQZZw","k":"zUInJah2Sm2d/nqVC1qHMw"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/Q2FydG9vblRW/manifest.mpd
-
-#EXTINF:-1 tvg-id="285" tvg-name="Dunia Anak" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5bb981e4-a207-4bfc-b127-2e14b2f2faaf.png" group-title="| Indonesia OTT",Dunia Anak
-#EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"vhPnlbfhS0uPMJoNlwQZZw","k":"zUInJah2Sm2d/nqVC1qHMw"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/RHVuaWFBbmFr/manifest.mpd
+https://cdnjktbpid37.cubmu.com/riverside26/riutx01-for-lcs/dash/Q2FydG9vbiBUVg/manifest.mpd
 
 #EXTINF:-1 tvg-id="167" tvg-name="Lingua Channel" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/b3da4ca7-9294-4e4c-bd50-cb3207d660ae.png" group-title="| Indonesia OTT",Lingua Channel
 #EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
