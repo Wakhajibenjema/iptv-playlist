@@ -174,7 +174,7 @@ https://cdnjktbpid37.cubmu.com/epyc-tx01/dash/Q0dUTiBEb2N1bWVudGFyeQ/manifest.mp
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
 https://cdnjktbpid37.cubmu.com/riutx01-9d621c69e1504c56a65bae70abea520e/dash/Q2hhbm5lbCBKb3dv/manifest.mpd
 
-#EXTINF:-1 tvg-id="263" tvg-name="!nsert" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6c71dcd6-318e-4e40-b89f-532ea989af7c.png" group-title="| Indonesia OTT",!nsert
+#EXTINF:-1 tvg-id="263" tvg-name="!nsert" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/db76073d-a420-4266-a7e1-60725e964c0c.png" group-title="| Indonesia OTT",!nsert
 #EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
