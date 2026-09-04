@@ -156,7 +156,7 @@ https://cdnjktbpid37.cubmu.com/riutx01-9d621c69e1504c56a65bae70abea520e/dash/RHV
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
 https://cdnjktbpid37.cubmu.com/riutx01-9d621c69e1504c56a65bae70abea520e/dash/Q2FydG9vbiBUViBDbGFzc2ljcw/manifest.mpd
 
-#EXTINF:-1 tvg-id="205" tvg-name="Knowledge+" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/c2339c24-6a40-49fa-a59e-75bafc279268.jpg" group-title="| Indonesia OTT",Knowledge+
+#EXTINF:-1 tvg-id="205" tvg-name="Knowledge+" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/5600ca59-2fee-482e-9777-076e1172ce5a.jpg" group-title="| Indonesia OTT",Knowledge+
 #EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
