@@ -174,6 +174,12 @@ https://cdnjktbpid37.cubmu.com/epyc-tx01/dash/Q0dUTiBEb2N1bWVudGFyeQ/manifest.mp
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
 https://cdnjktbpid37.cubmu.com/riutx01-45abb55cb99a02ee0e729bee98bf3537/dash/Q2hhbm5lbCBKb3dv/manifest.mpd
 
+#EXTINF:-1 tvg-id="263" tvg-name="!nsert" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/db76073d-a420-4266-a7e1-60725e964c0c.png" group-title="| Indonesia OTT",!nsert
+#EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
+https://cdnjktbpid37.cubmu.com/epyctx01-aaf7e583a80211de0b2b2f9dcbed0bf9/dash/330-aW5zZXJ0LWNoLXNjdGUzNQ/live.mpd
+
 #EXTINF:-1 tvg-id="615" tvg-name="Spesial Dunia Lain" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/bab41382-37ef-4dba-8d34-1643b9f37e24.jpg" group-title="| Indonesia OTT",Spesial Dunia Lain
 #EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
