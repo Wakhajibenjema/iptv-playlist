@@ -450,30 +450,6 @@ https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/Rml
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
 https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/UFNKIFRW/manifest.mpd
 
-#EXTINF:-1 tvg-id="225" tvg-name="HBO" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/d825fc01-7c90-4e2b-b3b9-09e830dd5c41.jpg" group-title="| Indonesia OTT",HBO
-#EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPLW15/manifest.mpd
-
-#EXTINF:-1 tvg-id="226" tvg-name="HBO Signature" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/dee39213-55d3-45e4-9746-24da88453bb4.png" group-title="| Indonesia OTT",HBO Signature
-#EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPLVNpZ25hdHVyZS1teQ/manifest.mpd
-
-#EXTINF:-1 tvg-id="228" tvg-name="HBO Hits" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/0a5b4164-b446-4b32-8342-ee8fcf10774a.png" group-title="| Indonesia OTT",HBO Hits
-#EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPIEhpdHM/manifest.mpd
-
-#EXTINF:-1 tvg-id="189" tvg-name="HBO Family" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/a5ad3b0f-e7ef-4384-829d-fcac45dcc0fe.png" group-title="| Indonesia OTT",HBO Family
-#EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/SEJPLUZhbWlseS1teQ/manifest.mpd
-
 #EXTINF:-1 tvg-id="231" tvg-name="Zee Bioskop" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/17a04a3c-fa34-4751-a2e0-400a61a0f81c.png" group-title="| Indonesia OTT",Zee Bioskop
 #EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
