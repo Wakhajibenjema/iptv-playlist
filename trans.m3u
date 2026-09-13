@@ -941,21 +941,3 @@ https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/V2F
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
 https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/Q05CQ0FzaWE/manifest.mpd
-
-#EXTINF:-1 tvg-id="134" tvg-name="Al Jazeera" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6a310813-4e19-4513-a7f5-8723feb2f67d.png" group-title="| Indonesia OTT",Al Jazeera
-#EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/QWxKYXplZXJh/manifest.mpd
-
-#EXTINF:-1 tvg-id="137" tvg-name="Channel NewsAsia" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/6a262ccb-1a93-487e-9ae5-0fd377e480cc.png" group-title="| Indonesia OTT",Channel NewsAsia
-#EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/Q2hhbm5lbE5ld3NBc2lh/manifest.mpd
-
-#EXTINF:-1 tvg-id="355" tvg-name="Golf Plus ID" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/bf5ebc3c-607e-4608-8bbd-25525254b0fb.png" group-title="| Indonesia OTT",Golf Plus ID
-#EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/R29sZlBsdXNJRA/manifest.mpd
