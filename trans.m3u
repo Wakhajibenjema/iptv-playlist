@@ -582,35 +582,11 @@ https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q2F
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
 https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q2FydG9vbiBUVg/manifest.mpd
 
-#EXTINF:-1 tvg-id="167" tvg-name="Lingua Channel" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/b3da4ca7-9294-4e4c-bd50-cb3207d660ae.png" group-title="| Indonesia OTT",Lingua Channel
-#EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/TGluZ3VhQ2hhbm5lbA/manifest.mpd
-
 #EXTINF:-1 tvg-id="19" tvg-name="Knowledge+" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/543cb3e6-d3c4-4b41-ad81-5e639e93b533.png" group-title="| Indonesia OTT",Knowledge+
 #EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
 https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/S25vd2xlZGdlKw/manifest.mpd
-
-#EXTINF:-1 tvg-id="121" tvg-name="CGTN Documentary" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/e3c5edbb-99e3-4803-ae4a-6b6bc54a26b7.jpg" group-title="| Indonesia OTT",CGTN Documentary
-#EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q0dUTkRvY3VtZW50YXJ5/manifest.mpd
-
-#EXTINF:-1 tvg-id="170" tvg-name="Channel Seru!" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/e15b6ec0-7926-489c-8d05-cc78c73b5c99.jpg" group-title="| Indonesia OTT",Channel Seru!
-#EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q2hhbm5lbFNlcnUh/manifest.mpd
-
-#EXTINF:-1 tvg-id="292" tvg-name="CCTV 4" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/81828890-c264-4f04-8ed0-dd3fc14e3c8c.png" group-title="| Indonesia OTT",CCTV 4
-#EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"b/ucU68oT9WQIX7eHrp2Xg","k":"Sr8f0m6MRaW2uuYM9v/CuQ"}],"type":"temporary"}
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/Q0NUVjQ/manifest.mpd
 
 #EXTINF:-1 tvg-id="559" tvg-name="NHK World Premium" tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/665dd586-36ee-4eb6-88a6-c17972aac5ff.png" group-title="| Indonesia OTT",NHK World Premium
 #EXTHTTP:{"Origin": "https://www.cubmu.com", "Referer": "https://www.cubmu.com/", "User-Agent": "https://cdnjktbpid37.cubmu.com/riutx01-85797a0a4020a58b17eeaf086136bc0e/dash/SEJPIEhpdHM/manifest.mpd"}
